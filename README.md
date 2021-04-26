@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 About Me
 🎓 I'm a Engineering Physics Sophomore at Delhi Technological University.\
 💡 Interested in working alongside like minded people enthusiastic about Flutter, AR/VR or developing cutting edge tech.\
-🌱 I'm on track for enhancing my knowledge about Data Stuructures and Algorithm, AR/VR and System Design.\
+🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms, AR/VR and System Design.\
 ⚡ In my free time, I pursue Photography and Graphic Designing as side hustles.\
 💬 Feel free to reach out to me for some interesting discussion about advancements in technology.\
 ✉️ You can reach out to me via email at hemang.dtu@gmail.com.
