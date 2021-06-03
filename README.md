@@ -36,6 +36,8 @@
 </a>
 </p>
 
+[![Hemang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemangdtu&theme=react-dark)](https://github.com/hemangdtu)
+
 ### 🤝🏻 Want to Connect?
 <p align="center">
 <a href="https://twitter.com/HemangSinha">
