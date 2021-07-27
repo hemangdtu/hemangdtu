@@ -2,7 +2,7 @@
 ### **Hola, I'm Hemang Sinha** 👋
 
 ### 👨🏻‍💻 About Me
-🎓 I'm a Engineering Physics Sophomore at Delhi Technological University.\
+🎓 I'm an Engineering Physics pre-final year student at Delhi Technological University.\
 💡 Interested in working alongside like minded people enthusiastic about Flutter, AR/VR or developing cutting edge tech.\
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms, AR/VR and System Design.\
 ⚡ In my free time, I pursue Photography and Graphic Designing as side hustles.\
