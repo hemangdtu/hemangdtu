@@ -39,17 +39,17 @@
 ### 🤝🏻 Want to Connect?
 <p align="center">
 <a href="https://twitter.com/HemangSinha">
-  <img align="left" alt="Hemang's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+  <img align="left" alt="Hemang's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409937.png" />
 </a>
 <a href="https://in.linkedin.com/in/hemang-sinha-0485081a4">
-  <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+  <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
 </a>
 <a href="https://github.com/hemangdtu">
   <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
 </a>
 <a href="https://www.instagram.com/hem.sin.007">
-  <img align="left" alt="Hemang's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
+  <img align="left" alt="Hemang's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
 </a>
 <a href="https://www.facebook.com/hemang.sinha">
-  <img align="left" alt="Hemang's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"  class="white" />
+  <img align="left" alt="Hemang's Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409943.png" />
 </a>
