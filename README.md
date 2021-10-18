@@ -45,7 +45,7 @@
   <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
 </a>
 <a href="https://github.com/hemangdtu">
-  <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+  <img align="left" alt="Hemang's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
 <a href="https://www.instagram.com/hem.sin.007">
   <img align="left" alt="Hemang's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
