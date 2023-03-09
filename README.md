@@ -2,15 +2,17 @@
 ### **Hola, I'm Hemang Sinha** 👋
 
 ### 👨🏻‍💻 About Me
-🎓 I'm an Engineering Physics pre-final year student at Delhi Technological University.\
-💡 Interested in working alongside like minded people enthusiastic about Flutter, AR/VR or developing cutting edge tech.\
-🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms, AR/VR and System Design.\
+🎓 I'm an Engineering Physics final year student at Delhi Technological University.\
+💡 Interested in working alongside like minded people enthusiastic about Flutter, Node.js or developing cutting edge tech.\
+🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms, backend development and System Design.\
 ⚡ In my free time, I pursue Photography and Graphic Designing as side hustles.\
 💬 Feel free to reach out to me for some interesting discussion about advancements in technology.\
 ✉️ You can reach out to me via email at hemang.dtu@gmail.com.
 
 ### 🛠 Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=42A5F5)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=339933)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&logoColor=E0234E)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -37,7 +39,6 @@
 </p>
 
 ### 🤝🏻 Want to Connect?
-<p align="center">
 <a href="https://twitter.com/HemangSinha">
   <img align="left" alt="Hemang's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" />
 </a>
