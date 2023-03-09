@@ -39,17 +39,11 @@
 ### 🤝🏻 Want to Connect?
 <p align="center">
 <a href="https://twitter.com/HemangSinha">
-  <img align="left" alt="Hemang's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409937.png" />
+  <img align="left" alt="Hemang's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" />
 </a>
 <a href="https://in.linkedin.com/in/hemang-sinha-0485081a4">
-  <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
+  <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670129.png" />
 </a>
 <a href="https://github.com/hemangdtu">
   <img align="left" alt="Hemang's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
-</a>
-<a href="https://www.instagram.com/hem.sin.007">
-  <img align="left" alt="Hemang's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
-</a>
-<a href="https://www.facebook.com/hemang.sinha">
-  <img align="left" alt="Hemang's Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409943.png" />
 </a>
